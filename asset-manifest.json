@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/downloaderyt/static/css/main.19f6988b.chunk.css",
+    "main.js": "/downloaderyt/static/js/main.50f1c0c0.chunk.js",
+    "main.js.map": "/downloaderyt/static/js/main.50f1c0c0.chunk.js.map",
+    "runtime-main.js": "/downloaderyt/static/js/runtime-main.0b45b0c9.js",
+    "runtime-main.js.map": "/downloaderyt/static/js/runtime-main.0b45b0c9.js.map",
+    "static/js/2.8247c7fb.chunk.js": "/downloaderyt/static/js/2.8247c7fb.chunk.js",
+    "static/js/2.8247c7fb.chunk.js.map": "/downloaderyt/static/js/2.8247c7fb.chunk.js.map",
+    "index.html": "/downloaderyt/index.html",
+    "precache-manifest.445d8f3e99b85c51af331ec321849586.js": "/downloaderyt/precache-manifest.445d8f3e99b85c51af331ec321849586.js",
+    "service-worker.js": "/downloaderyt/service-worker.js",
+    "static/css/main.19f6988b.chunk.css.map": "/downloaderyt/static/css/main.19f6988b.chunk.css.map",
+    "static/js/2.8247c7fb.chunk.js.LICENSE.txt": "/downloaderyt/static/js/2.8247c7fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b45b0c9.js",
+    "static/js/2.8247c7fb.chunk.js",
+    "static/css/main.19f6988b.chunk.css",
+    "static/js/main.50f1c0c0.chunk.js"
+  ]
+}
