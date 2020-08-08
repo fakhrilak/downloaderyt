@@ -51,6 +51,22 @@ function App() {
         onChange={handleSetName}
         />
         </div>
+        <div>
+          <select
+                name="Type"
+                onChange={(e) => handleSetType(e)}
+              >
+                <option value="" holder="true">
+                  Select Type
+                </option>
+                <option value="mp3">
+                  Mp3
+                </option>
+                <option value="mp4">
+                  Mp4
+                </option>
+          </select>
+        </div>
           {URL!== '' && <button onClick={()=>handleDownload()} type="submit" value="Download">Download</button>}
         </div>
       </form>
