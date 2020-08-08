@@ -62,8 +62,11 @@ function App() {
                 <option value="mp3">
                   Mp3
                 </option>
-                <option value="mp4">
-                  Mp4
+                <option value="small">
+                  144p
+                </option>
+                <option value="hd1080">
+                  1080p
                 </option>
           </select>
         </div>
