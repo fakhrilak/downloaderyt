@@ -1,6 +1,7 @@
 .App {
   text-align: center;
   background-color: black;
+  color: black;
 }
 .App h1{
   color: chartreuse;
@@ -11,6 +12,7 @@
   border-radius: 5px;
   border-color: chartreuse;
   background-color: darkslategray;
+  color: black;
 }
 .form button{
   width: 30%;

@@ -51,10 +51,17 @@ function App() {
         onChange={handleSetName}
         />
         </div>
-        <div>
+        <div style={{paddingBottom:30}}>
           <select
                 name="Type"
                 onChange={(e) => handleSetType(e)}
+                style={{width:'20%',
+                height:30,
+                color:'black',
+                backgroundColor:'darkslategray',
+                borderRadius:3,
+                borderColor:'chartreuse',
+              }}
               >
                 <option value="" holder="true">
                   Select Type
@@ -62,11 +69,8 @@ function App() {
                 <option value="mp3">
                   Mp3
                 </option>
-                <option value="small">
-                  144p
-                </option>
-                <option value="hd1080">
-                  1080p
+                <option value="video">
+                  Video
                 </option>
           </select>
         </div>
