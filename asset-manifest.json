@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/downloaderyt/static/css/main.56cd05de.chunk.css",
-    "main.js": "/downloaderyt/static/js/main.8c51ef29.chunk.js",
-    "main.js.map": "/downloaderyt/static/js/main.8c51ef29.chunk.js.map",
+    "main.css": "/downloaderyt/static/css/main.c842bc3b.chunk.css",
+    "main.js": "/downloaderyt/static/js/main.c0900d34.chunk.js",
+    "main.js.map": "/downloaderyt/static/js/main.c0900d34.chunk.js.map",
     "runtime-main.js": "/downloaderyt/static/js/runtime-main.0b45b0c9.js",
     "runtime-main.js.map": "/downloaderyt/static/js/runtime-main.0b45b0c9.js.map",
     "static/js/2.8247c7fb.chunk.js": "/downloaderyt/static/js/2.8247c7fb.chunk.js",
     "static/js/2.8247c7fb.chunk.js.map": "/downloaderyt/static/js/2.8247c7fb.chunk.js.map",
     "index.html": "/downloaderyt/index.html",
-    "precache-manifest.da2e31d23b7fcca5a49368b6b4d38269.js": "/downloaderyt/precache-manifest.da2e31d23b7fcca5a49368b6b4d38269.js",
+    "precache-manifest.af6112b70613ff53174adf9907391682.js": "/downloaderyt/precache-manifest.af6112b70613ff53174adf9907391682.js",
     "service-worker.js": "/downloaderyt/service-worker.js",
-    "static/css/main.56cd05de.chunk.css.map": "/downloaderyt/static/css/main.56cd05de.chunk.css.map",
+    "static/css/main.c842bc3b.chunk.css.map": "/downloaderyt/static/css/main.c842bc3b.chunk.css.map",
     "static/js/2.8247c7fb.chunk.js.LICENSE.txt": "/downloaderyt/static/js/2.8247c7fb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0b45b0c9.js",
     "static/js/2.8247c7fb.chunk.js",
-    "static/css/main.56cd05de.chunk.css",
-    "static/js/main.8c51ef29.chunk.js"
+    "static/css/main.c842bc3b.chunk.css",
+    "static/js/main.c0900d34.chunk.js"
   ]
 }
