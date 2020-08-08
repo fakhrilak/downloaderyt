@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "06e7dde9e494badf46b1e9519ef1cd43",
+    "revision": "f9f2ab8c0690ed17303759da686014d1",
     "url": "/downloaderyt/index.html"
   },
   {
-    "revision": "40ff5eb42e359f771b46",
+    "revision": "d40409da1b1d3777b1b2",
     "url": "/downloaderyt/static/css/main.56cd05de.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/downloaderyt/static/js/2.8247c7fb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "40ff5eb42e359f771b46",
-    "url": "/downloaderyt/static/js/main.50f1c0c0.chunk.js"
+    "revision": "d40409da1b1d3777b1b2",
+    "url": "/downloaderyt/static/js/main.bc174c52.chunk.js"
   },
   {
     "revision": "e695cfa036276a2e477b",
